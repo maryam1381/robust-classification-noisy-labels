@@ -29,4 +29,4 @@ LR showed a steady decline in performance as noise increased, indicating sensiti
 MLP performs exceptionally well on clean data but its accuracy drops faster under high noise, likely due to overfitting on incorrect labels (unless regularization is heavily applied).
 
 
-![Results Plot](results\model_noise_comparison.png)
+![Results Plot](results/model_noise_comparison.png)
