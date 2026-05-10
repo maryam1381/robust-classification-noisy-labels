@@ -1,4 +1,4 @@
-Comparative Study
+# Comparative Study
 This project investigates the impact of label noise on various machine learning models. In real-world datasets, labels are often imperfect due to human error or automated labeling glitches. This study evaluates how different architectures—from linear models to ensemble methods and neural networks—behave when trained on noisy data.
 
 ## Project Overview
